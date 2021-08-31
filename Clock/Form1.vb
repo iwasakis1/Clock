@@ -66,6 +66,7 @@ Public Class Form1
         Me.TopMost = True
         Me.TopMost = True
         Me.TopMost = True
+        Me.TopMost = True
         '
     End Sub
 
