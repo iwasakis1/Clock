@@ -62,7 +62,7 @@ Public Class Form1
         Me.Region = New Region(path)
 
 
-        Me.TopMost = True
+        Me.TopMost = False
         '
     End Sub
 
